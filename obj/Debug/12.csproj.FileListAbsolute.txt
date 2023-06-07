@@ -1,0 +1,7 @@
+C:\Users\serbu\source\repos\12\12\bin\Debug\12.exe.config
+C:\Users\serbu\source\repos\12\12\bin\Debug\12.exe
+C:\Users\serbu\source\repos\12\12\bin\Debug\12.pdb
+C:\Users\serbu\source\repos\12\12\obj\Debug\12.csprojAssemblyReference.cache
+C:\Users\serbu\source\repos\12\12\obj\Debug\12.csproj.CoreCompileInputs.cache
+C:\Users\serbu\source\repos\12\12\obj\Debug\12.exe
+C:\Users\serbu\source\repos\12\12\obj\Debug\12.pdb
